@@ -2,8 +2,11 @@
 $(window).scroll(function() {
     if ($(".navbar").offset().top > 50) {
         $(".navbar-fixed-top").addClass("top-nav-collapse");
+       $(".navbar").css("padding","1px");
+
     } else {
         $(".navbar-fixed-top").removeClass("top-nav-collapse");
+        $(".navbar").css("padding","10px");
     }
 });
 

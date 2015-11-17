@@ -46,7 +46,7 @@ of those sections to manage the look and feel of the site. */
     background: #eee;
 }
 
-.services-section {
+.phone-section {
     height: 100%;
 
     text-align: center;
@@ -69,6 +69,7 @@ of those sections to manage the look and feel of the site. */
 
 #banner{
     width: 100%;
+    height: 530px;
 }
 #show-phone{
     padding-top: 55px;
@@ -77,3 +78,10 @@ of those sections to manage the look and feel of the site. */
 /*#amber{
     width: 20%;
 }*/
+#intro{
+    padding: 0;
+}
+img{
+    width: 100%;
+    
+}

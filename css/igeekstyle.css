@@ -1,0 +1,13 @@
+/* Estilos propios de iGeek Products */
+
+
+.navbar {
+	padding: 10px 0;
+	transition: background .5s ease-in-out,
+	padding .5s ease-in-out;
+} 
+
+.intro-section {
+	padding-top: 80px;
+ 
+}
