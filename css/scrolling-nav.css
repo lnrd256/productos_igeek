@@ -41,12 +41,6 @@ of those sections to manage the look and feel of the site. */
     background: #fff;
 }
 
-.about-section {
-    height: 100%;
-    padding-top: 150px;
-    text-align: center;
-    background: #eee;
-}
 
 .phone-section {
     height: 100%;
@@ -54,6 +48,27 @@ of those sections to manage the look and feel of the site. */
     text-align: center;
     background: rgb(228, 228, 228)
 }
+.energy-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: rgb(228, 228, 228)
+}
+.computers-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: rgb(228, 228, 228)
+}
+
+.sound-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: rgb(228, 228, 228)
+}
+
+
 
 .contact-section {
     height: 100%;
@@ -87,6 +102,11 @@ of those sections to manage the look and feel of the site. */
    padding: 0;
    height: 100%;
 }
+#sound{
+   padding: 0;
+   height: 100%;
+}
+
 #banner1 img{
     max-width: 100%;
     max-height: 100%;
@@ -112,4 +132,7 @@ of those sections to manage the look and feel of the site. */
 }
 #tabla{
     text-align: center;
+}
+.imagen{
+    width: 90%;
 }
